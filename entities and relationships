@@ -15,12 +15,12 @@ Entities:
 
 Iam mentioning attributes also so that we can understand the ER diagram easily
 Attributes:
-1.Staff- StaffID,Name,Role,Email
-2.Members-MemberID,Name,Email,JoinDate
-3.Books-BookID,Title,ISBN,Status
-4.Reservations-ReservationID,BookID,ReservationDate
-5.Loans-LoanID,BookID,MemberID,StaffID,LoanDate,DueDate,ReturnDate
-6.Fines-FineID,LoanID,StaffID,Amount,IsuuedDate,Paid
+1.Staff- StaffID(PK),Name,Role,Email
+2.Members-MemberID(PK),Name,Email,JoinDate
+3.Books-BookID(PK),Title,ISBN,Status
+4.Reservations-ReservationID(PK),BookID(FK),ReservationDate
+5.Loans-LoanID(PK),BookID(FK),MemberID(FK),StaffID(FK),LoanDate,DueDate,ReturnDate
+6.Fines-FineID(PK),LoanID(FK),StaffID(FK),Amount,IsuuedDate,Paid
 
 Relationship:
 1.A member can reserve multiple books
