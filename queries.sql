@@ -12,7 +12,6 @@ INSERT INTO Staff (Name, Role, Email) VALUES
 
 SELECT * FROM Staff;
 
-
 -- Members table
 CREATE TABLE Members (
     MemberID INT PRIMARY KEY AUTO_INCREMENT,
@@ -74,7 +73,6 @@ CREATE TABLE Loans (
 INSERT INTO Loans (BookID, MemberID, StaffID, LoanDate, DueDate, ReturnDate) VALUES
 (2, 1, 1, '2025-06-01', '2025-06-15', NULL);
 
-
 SELECT * FROM Loans;
 
 -- Fines table
@@ -91,6 +89,5 @@ CREATE TABLE Fines (
 -- Insert into Fines
 INSERT INTO Fines (LoanID, StaffID, Amount, IssuedDate, Paid) VALUES
 (1, 2, 25.00, '2025-06-20', FALSE);
-
 
 SELECT * FROM Fines;
