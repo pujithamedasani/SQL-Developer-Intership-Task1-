@@ -50,6 +50,6 @@ Added sample data using INSERT INTO statements to simulate realistic records (bo
 Created an Entity-Relationship diagram to visually represent how entities interact showing Operational workflows
 
 
-License
-This project is open-source. No license specified.
+License:
+This project is an open-source. No license specified.
 
