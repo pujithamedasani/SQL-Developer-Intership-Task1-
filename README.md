@@ -49,6 +49,12 @@ Added sample data using INSERT INTO statements to simulate realistic records (bo
 6.ER Diagram Generation:
 Created an Entity-Relationship diagram to visually represent how entities interact showing Operational workflows
 
+What is understood from this task:
+Database Modeling Skills: How a real-world system (library) is converted into a normalized database design.
+Relational Concepts: The importance of primary keys, foreign keys, and data integrity.
+Entity-Relationship: How to break down entities and define meaningful relationships.
+SQL: Writing SQL to create tables, constraints, and insert data.
+Logical Thinking: Planning data flow and understanding how systems like reservations and fines are interlinked.
 
 License:
 This project is an open-source. No license specified.
