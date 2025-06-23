@@ -14,7 +14,7 @@ Features:
 Tracks library members and staff
 Handles book loans, reservations, and fine management
 Includes proper use of primary keys, foreign keys, and constraints
-Designed with normalization and scalability in mind
+Designed with normalization and scalability in mind.
 In this project, we explored the design and implementation of a relational database system for a Library Operations Management System. The goal was to understand how to model real-world scenarios using structured data, define relationships between entities, and implement them using SQL.
 
 Brief review:
