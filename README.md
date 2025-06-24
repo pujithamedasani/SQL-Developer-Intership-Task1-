@@ -58,6 +58,7 @@ Logical Thinking: Planning data flow and understanding how systems like reservat
 
 Tools and Resources Used:
 MySQL Compiler , dbdiagram.io , Geeksforgeeks , W3 schools
+
 License:
 This project is an open-source. No license specified.
 
