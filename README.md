@@ -56,6 +56,8 @@ Entity-Relationship: How to break down entities and define meaningful relationsh
 SQL: Writing SQL to create tables, constraints, and insert data.
 Logical Thinking: Planning data flow and understanding how systems like reservations and fines are interlinked.
 
+Tools and Resources Used:
+MySQL Compiler , dbdiagram.io , Geeksforgeeks , W3 schools
 License:
 This project is an open-source. No license specified.
 
