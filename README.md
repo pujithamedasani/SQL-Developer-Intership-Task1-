@@ -1,8 +1,9 @@
 # SQL-Developer-Intership-Task1-
-Library Operations Database:
+
+## Library Operations Database:
 A relational database schema designed for managing core operations in a Library Management System, including books, members, staff, reservations, loans, and fines.
 
-Project Structure:
+## Project Structure:
 SQL Script for Schema.sql – SQL script to create all tables with relationships
 sample_data.sql – Insert statements with realistic sample data
 ER Diagram.png – ER diagram showing entity relationships
@@ -10,14 +11,14 @@ README.md – Project summary and documentation
 output.png-The output for sample_data
 entities and relationships- description of entities and relationship between them 
 
-Features:
+## Features:
 Tracks library members and staff
 Handles book loans, reservations, and fine management
 Includes proper use of primary keys, foreign keys, and constraints
 Designed with normalization and scalability in mind.
 In this project, we explored the design and implementation of a relational database system for a Library Operations Management System. The goal was to understand how to model real-world scenarios using structured data, define relationships between entities, and implement them using SQL.
 
-Brief review:
+## Brief review:
 
 1.Domain Selection-
 Selected the Library domain, focusing specifically on operations like
@@ -56,9 +57,9 @@ Entity-Relationship: How to break down entities and define meaningful relationsh
 SQL: Writing SQL to create tables, constraints, and insert data.
 Logical Thinking: Planning data flow and understanding how systems like reservations and fines are interlinked.
 
-Tools and Resources Used:
+## Tools and Resources Used:
 MySQL Compiler , dbdiagram.io , Geeksforgeeks , W3 schools
 
-License:
+## License:
 This project is an open-source. No license specified.
 
